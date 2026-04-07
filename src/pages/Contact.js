@@ -97,7 +97,7 @@ function Contact() {
             </div>
 
             <div className="social-links">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-link">GitHub</a>
+              <a href="https://github.com/codemikemike" target="_blank" rel="noopener noreferrer" className="social-link">GitHub</a>
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="social-link">Twitter</a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link">LinkedIn</a>
             </div>
